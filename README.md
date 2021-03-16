@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a tech enthusiast with an interest in Web Development, Data Science, Machine Learning and Cybersecurity. Currently, a Software Engineering Student at PUCIT with a strong grip of software engineering practices and knowledge of languages and tools like: Python, C++, C#, Asp.Net MVC, Javascript, PHP, SQL, numpy, pandas and Git. 
+I am a tech enthusiast with an interest in Web Development, Data Science, Machine Learning and Cybersecurity. Currently, a Software Engineering Student at PUCIT (now FCIT) with a strong grip of software engineering practices and knowledge of languages and tools like: Python, C++, C#, Asp.Net MVC, Javascript, PHP, SQL, numpy, pandas and Git. 
 
 - 📫 How to reach me: <br>
       ✨ Linked In: https://www.linkedin.com/in/usamashahid1133/
