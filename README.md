@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 I am a tech enthusiast with an interest in Web Development, Data Science, Machine Learning and Cybersecurity. Currently, a Software Engineering Student at PUCIT with a strong grip of software engineering practices and knowledge of languages and tools like: Python, C++, C#, Asp.Net MVC, Javascript, PHP, SQL, numpy, pandas and Git. 
 
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
       ✨ Linked In: https://www.linkedin.com/in/usamashahid1133/
   
-- 🔭 I’m currently working on:
-      ✨ Brain tumor segmentation from MRI using CNN
+- 🔭 I’m currently working on: <br>
+      ✨ Brain tumor segmentation from MRI using CNN <br>
       ✨ SportsReg - A plateform to offer and request sports equipment
   
 - 🌱 I’m currently learning react.js and django through online courses.
