@@ -20,6 +20,7 @@ I am a tech enthusiast with an interest in Web Development, Data Science, Machin
   
 - 🔭 I’m currently working on: <br>
       ✨ Brain tumor segmentation from MRI using CNN <br>
-      ✨ SportsReg - A plateform to offer and request sports equipment
+      ✨ SportsReg - A plateform to offer and request sports equipment <br>
+      ✨ Russekjop - Another version of SportsReg 
   
 - 🌱 I’m currently learning react.js and django through online courses.
