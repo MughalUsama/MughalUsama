@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a tech enthusiast with an interest in Web Development, Data Science, Machine Learning and Cybersecurity. Currently, a Software Engineer at SSI (Strategic Systems International) with a strong grip of software engineering practices and knowledge of languages and tools like: 
+<pre>
 ⚡ Python        ⚡ C++        ⚡ C#        ⚡ Django        ⚡ Django Rest Framwork       ⚡ Asp.Net MVC          ⚡ Javascript        ⚡ numpy, pandas
 ⚡ PHP           ⚡ SQL        ⚡ Git       ⚡ Prism         ⚡ DevExpress Reporting       ⚡ Html/CSS/Bootstrap   ⚡ Windows Presentation Foundation (WPF - MVVM)
-
+</pre>
 - 📫 How to reach me: <br>
       ✨ Linked In: https://www.linkedin.com/in/usamashahid1133/
   <!--
