@@ -17,7 +17,7 @@ I am a tech enthusiast with an interest in Web Development, Data Science, Machin
 <pre>
 ⚡ Python        ⚡ C++        ⚡ C#        ⚡ Django        ⚡ Django Rest Framwork       ⚡ Asp.Net MVC
 ⚡ Javascript    ⚡ SQL        ⚡ Git       ⚡ PHP           ⚡ Html/CSS/Bootstrap         ⚡ DevExpress Reporting
-⚡ Prism⚡ numpy, pandas       ⚡ Windows Presentation Foundation (WPF - MVVM)
+⚡ Prism         ⚡ numpy, pandas           ⚡ Windows Presentation Foundation (WPF - MVVM)
 </pre>
 - 📫 How to reach me: <br>
       ✨ Linked In: https://www.linkedin.com/in/usamashahid1133/
